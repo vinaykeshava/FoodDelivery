@@ -1,0 +1,159 @@
+#navbar
+{
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+
+#navbar ul 
+{
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 1px;
+}
+
+#navbar ul li
+{
+    font-size: 40px;
+    padding: 5px 15px;
+    text-align: center;
+}
+
+#navbar ul li a
+{
+    padding: 5px 5px;
+}
+
+.item
+{
+    padding: 0px 5px;
+}
+
+p{
+    font-size: 30px;
+}
+
+.primary
+{
+    margin: 0px;
+    padding: 5px ;
+    font-size: 6rem;
+}
+
+.secondary-center
+{
+    font-size: 3rem;   
+}
+
+.container
+{
+    margin: 0px 0px;
+
+}
+
+#home
+{
+padding: 10px 10px;
+margin-bottom: 0px ;
+}
+
+#home h1
+{
+    font-size: 7rem;
+    animation-name: vinay;
+    animation-duration: 10s;
+
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    position: relative;
+}
+
+
+@keyframes vinay {
+    0%
+    {
+        left:-99%
+    }
+    100%
+    {
+        left: 90%;
+    }
+}
+
+.mainbox
+{
+    flex-direction: row;
+}
+
+#service
+{
+    margin: 0px 0px;
+}
+.box img
+{
+    height: 220px;
+    width: 240px;
+}
+
+#ourclient
+{
+    flex-wrap: wrap;
+    margin: 0px 0px;
+    overflow: hidden;
+}
+
+#ourclient img
+{
+    padding: 0px 20px;
+    height: 120px;
+}
+
+#contact_us
+{
+    flex-wrap: nowrap;
+    margin: 0px 0px;
+    overflow: hidden;
+
+}
+
+#contact_us a img
+{
+    height: 120px;
+}
+
+#form
+{
+    flex-wrap: nowrap;
+    margin: 0px 0px;
+    overflow: hidden;
+}
+
+#form input
+{
+    font-size: 35px;
+    margin-left: 350px;
+}
+
+#form label
+{
+    font-size: 40px;
+    position: relative;
+    top: 63px;
+    right: 240px;
+}
+
+#form button
+{
+    font-size: 40px;
+}
+
+.btn
+{
+    font-size: 40px;
+}
+
+
+footer
+{
+    font-size: 30px;
+}
