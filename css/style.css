@@ -155,7 +155,7 @@ body
 .container::before
 {
     content: "";
-    background: url('/project3/img/food3.jpg') repeat center center/cover;
+    background: url('/img/food3.jpg') repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
@@ -214,7 +214,7 @@ margin: 15px 0px;
 /* #service::before
 {
     content: "";
-    background: url('/project3/img/food3.jpg') no-repeat center center/cover;
+    background: url('/img/food3.jpg') no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
@@ -256,7 +256,7 @@ margin: 15px 0px;
 #ourclient::before
 {
     content: "";
-    background: url('/project3/img/pizza3.jpg') no-repeat center center/cover;
+    background: url('/img/pizza3.jpg') no-repeat center center/cover;
     position: absolute;
     
     height: 100%;
@@ -283,7 +283,7 @@ margin: 15px 0px;
 #contact_us::before
 {
     content: "";
-    background: url('/project3/img/food5.jpg') no-repeat center center/cover;
+    background: url('/img/food5.jpg') no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
@@ -313,7 +313,7 @@ margin: 15px 0px;
 #form::before
 {
     content: "";
-    background: url('/project3/img/burger2.jpg') no-repeat center center/cover;
+    background: url('/img/burger2.jpg') no-repeat center center/cover;
     position: absolute;
     width: 100%;
     height: 100%;
